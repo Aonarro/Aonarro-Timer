@@ -18,7 +18,7 @@ function getCorrectWord(num) {
 }
 
 function calcTime() {
-    const deadline = new Date("24 March 2023");
+    const deadline = new Date("31 August 2022");
     const currentData = new Date();
     const difference = deadline - currentData;
 
